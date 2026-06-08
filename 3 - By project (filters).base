@@ -1,0 +1,108 @@
+filters:
+  and:
+    - type == "task"
+    - status != "archived"
+properties:
+  note.status:
+    displayName: Status
+  note.assignee:
+    displayName: Assignee
+  note.priority:
+    displayName: Priority
+  note.description:
+    displayName: Description
+views:
+  - type: tm-kanban
+    name: Alpha
+    filters:
+      and:
+        - project == "Alpha"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - assignee
+      - priority
+      - description
+    sort:
+      - property: priority
+        direction: ASC
+    usePredefinedColumns: true
+    predefinedValues:
+      - backlog|#9aa0a6
+      - todo|#6b7280
+      - doing|#4c8bf5
+      - review|#e0a458
+      - done|#3fb950
+    doneStatuses:
+      - done
+    archiveValue: archived
+    tmKanbanState:
+      collapsed:
+        doing: false
+        __tm_null__: true
+  - type: tm-kanban
+    name: Beta
+    filters:
+      and:
+        - project == "Beta"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - assignee
+      - priority
+      - description
+    usePredefinedColumns: true
+    predefinedValues:
+      - backlog|#9aa0a6
+      - todo|#6b7280
+      - doing|#4c8bf5
+      - review|#e0a458
+      - done|#3fb950
+    doneStatuses:
+      - done
+    archiveValue: archived
+  - type: tm-kanban
+    name: Gamma
+    filters:
+      and:
+        - project == "Gamma"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - assignee
+      - priority
+      - description
+    usePredefinedColumns: true
+    predefinedValues:
+      - backlog|#9aa0a6
+      - todo|#6b7280
+      - doing|#4c8bf5
+      - review|#e0a458
+      - done|#3fb950
+    doneStatuses:
+      - done
+    archiveValue: archived
+  - type: tm-kanban
+    name: Personal
+    filters:
+      and:
+        - project == "Personal"
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - priority
+      - description
+    usePredefinedColumns: true
+    predefinedValues:
+      - backlog|#9aa0a6
+      - todo|#6b7280
+      - doing|#4c8bf5
+      - review|#e0a458
+      - done|#3fb950
+    doneStatuses:
+      - done
+    archiveValue: archived

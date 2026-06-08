@@ -1,0 +1,38 @@
+filters:
+  and:
+    - type == "task"
+    - status != "archived"
+properties:
+  note.project:
+    displayName: Project
+  note.assignee:
+    displayName: Assignee
+  note.priority:
+    displayName: Priority
+  note.start:
+    displayName: Start
+  note.end:
+    displayName: End
+views:
+  - type: tm-timeline
+    name: Flat
+    order:
+      - assignee
+      - priority
+    sort:
+      - property: start
+        direction: ASC
+    startProp: note.start
+    endProp: note.end
+    scale: week
+  - type: tm-timeline
+    name: By project
+    groupBy:
+      property: project
+      direction: ASC
+    order:
+      - assignee
+      - priority
+    startProp: note.start
+    endProp: note.end
+    scale: day

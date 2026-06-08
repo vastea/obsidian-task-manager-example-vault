@@ -1,0 +1,31 @@
+filters:
+  and:
+    - type == "task"
+    - status != "archived"
+properties:
+  note.status:
+    displayName: Status
+  note.project:
+    displayName: Project
+  note.assignee:
+    displayName: Assignee
+  note.priority:
+    displayName: Priority
+  note.description:
+    displayName: Description
+views:
+  - type: tm-kanban
+    name: By status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - status
+      - project
+      - assignee
+      - priority
+      - description
+    sort:
+      - property: priority
+        direction: ASC
+    usePredefinedColumns: false

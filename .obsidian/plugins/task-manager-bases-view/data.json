@@ -1,0 +1,14 @@
+{
+  "language": "en",
+  "enableKanban": true,
+  "enableTimeline": true,
+  "enableCalendar": true,
+  "journalFolder": "Journal",
+  "dateFormat": "YYYY-MM-DD",
+  "weekStart": "monday",
+  "logSection": "Log",
+  "logBacklink": false,
+  "logBacklinkSection": "Log",
+  "categoriesEnabled": true,
+  "categoriesText": "Dev|#4c8bf5\nMeeting|#e0a458\nReview|#a371f7\nWriting|#7bbf6a\nResearch|#3fb950\nPlanning|#7b8794\nPersonal|#ef6f6c\nAdmin|#9aa0a6\nBreak|green"
+}

@@ -1,0 +1,36 @@
+filters:
+  and:
+    - type == "task"
+    - status != "archived"
+properties:
+  note.status:
+    displayName: Status
+  note.project:
+    displayName: Project
+  note.assignee:
+    displayName: Assignee
+  note.description:
+    displayName: Description
+views:
+  - type: tm-kanban
+    name: Pipeline
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - project
+      - assignee
+      - description
+    sort:
+      - property: priority
+        direction: ASC
+    usePredefinedColumns: true
+    predefinedValues:
+      - backlog|#9aa0a6
+      - todo|#6b7280
+      - doing|#4c8bf5
+      - review|#e0a458
+      - done|#3fb950
+    doneStatuses:
+      - done
+    archiveValue: archived
