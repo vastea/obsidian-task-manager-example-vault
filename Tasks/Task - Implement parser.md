@@ -21,3 +21,8 @@ Section parser for the weekly log.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-06-06 Backlog->Todo
+- 2026-06-08 Todo->In Progress

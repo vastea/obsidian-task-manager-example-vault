@@ -19,3 +19,9 @@ Cut the first release.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-05-26 Backlog->Todo
+- 2026-05-28 Todo->In Progress
+- 2026-05-31 In Progress->Done

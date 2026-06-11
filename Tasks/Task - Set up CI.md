@@ -21,3 +21,8 @@ Pipelines + caching.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-06-03 Backlog->Todo
+- 2026-06-05 Todo->In Progress

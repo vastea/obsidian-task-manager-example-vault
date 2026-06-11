@@ -18,3 +18,9 @@ Legacy data migration (last year).
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2025-10-30 Backlog->Todo
+- 2025-11-03 Todo->In Progress
+- 2025-11-18 In Progress->Cancelled

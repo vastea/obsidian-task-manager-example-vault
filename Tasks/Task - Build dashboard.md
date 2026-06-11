@@ -21,3 +21,7 @@ Main metrics dashboard.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-06-09 Backlog->Todo

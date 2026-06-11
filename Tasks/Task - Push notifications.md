@@ -21,3 +21,8 @@ Implement push.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-06-07 Backlog->Todo
+- 2026-06-09 Todo->In Progress

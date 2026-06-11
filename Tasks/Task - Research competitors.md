@@ -17,3 +17,8 @@ Survey similar apps.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-06-11 Blocked->Cancelled
+- 2026-06-11 Cancelled->Blocked

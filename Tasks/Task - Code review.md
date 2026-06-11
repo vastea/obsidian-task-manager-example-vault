@@ -18,3 +18,9 @@ Review the parser PR.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-06-05 Backlog->Todo
+- 2026-06-08 Todo->In Progress
+- 2026-06-10 In Progress->Done

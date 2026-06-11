@@ -21,3 +21,7 @@ Functional spec for the guarantee module.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-06-01 Backlog->Todo

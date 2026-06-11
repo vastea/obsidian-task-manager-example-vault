@@ -18,3 +18,9 @@ Summer trip booked.
 ## Log
 
 <!-- weekly-log back-references land here when enabled -->
+
+## Changelog
+
+- 2026-05-18 Backlog->Todo
+- 2026-05-21 Todo->In Progress
+- 2026-05-24 In Progress->Done
