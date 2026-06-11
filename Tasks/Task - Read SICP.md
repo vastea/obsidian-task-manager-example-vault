@@ -1,7 +1,7 @@
 ---
 type: task
 project: Personal
-status: backlog
+status: Backlog
 priority: low
 description: Work through the exercises.
 tags:
@@ -13,7 +13,7 @@ Work through the exercises.
 
 ## Activity
 
-- Personal · backlog · unassigned
+- Personal · Backlog · unassigned
 
 ## Log
 

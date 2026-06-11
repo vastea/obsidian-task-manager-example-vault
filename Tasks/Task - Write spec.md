@@ -1,7 +1,7 @@
 ---
 type: task
 project: Alpha
-status: todo
+status: Todo
 priority: high
 assignee: Vas
 start: 2026-06-02
@@ -16,7 +16,7 @@ Functional spec for the guarantee module.
 
 ## Activity
 
-- Alpha · todo · Vas
+- Alpha · Todo · Vas
 
 ## Log
 

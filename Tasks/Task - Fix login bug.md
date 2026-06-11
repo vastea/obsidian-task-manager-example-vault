@@ -1,7 +1,7 @@
 ---
 type: task
 project: Beta
-status: done
+status: Done
 priority: low
 assignee: Lee
 description: Session token expired too early.
@@ -14,7 +14,7 @@ Session token expired too early.
 
 ## Activity
 
-- Beta · done · Lee
+- Beta · Done · Lee
 
 ## Log
 

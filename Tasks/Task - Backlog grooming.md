@@ -1,7 +1,7 @@
 ---
 type: task
 project: Beta
-status: backlog
+status: Backlog
 priority: low
 description: Triage and estimate the backlog.
 ---
@@ -11,7 +11,7 @@ Triage and estimate the backlog.
 
 ## Activity
 
-- Beta · backlog · unassigned
+- Beta · Backlog · unassigned
 
 ## Log
 

@@ -1,7 +1,7 @@
 ---
 type: task
 project: Gamma
-status: doing
+status: In Progress
 priority: high
 assignee: Lee
 start: 2026-06-05
@@ -16,7 +16,7 @@ Pipelines + caching.
 
 ## Activity
 
-- Gamma · doing · Lee
+- Gamma · In Progress · Lee
 
 ## Log
 

@@ -1,7 +1,7 @@
 filters:
   and:
     - type == "task"
-    - status != "archived"
+    - status != "Archived"
 properties:
   note.status:
     displayName: Status

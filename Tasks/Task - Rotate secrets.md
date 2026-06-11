@@ -1,7 +1,7 @@
 ---
 type: task
 project: Gamma
-status: backlog
+status: Backlog
 priority: low
 description: Quarterly secret rotation.
 ---
@@ -11,7 +11,7 @@ Quarterly secret rotation.
 
 ## Activity
 
-- Gamma · backlog · unassigned
+- Gamma · Backlog · unassigned
 
 ## Log
 

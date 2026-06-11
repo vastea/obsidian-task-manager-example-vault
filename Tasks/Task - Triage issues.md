@@ -1,7 +1,7 @@
 ---
 type: task
 project: Gamma
-status: todo
+status: Blocked
 priority: low
 description: No explicit status flow yet.
 ---
@@ -11,7 +11,7 @@ No explicit status flow yet.
 
 ## Activity
 
-- Gamma · todo · unassigned
+- Gamma · Blocked · unassigned
 
 ## Log
 

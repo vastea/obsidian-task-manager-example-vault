@@ -1,7 +1,7 @@
 ---
 type: task
 project: Alpha
-status: done
+status: Done
 priority: high
 assignee: Vas
 start: 2026-05-28
@@ -14,7 +14,7 @@ Cut the first release.
 
 ## Activity
 
-- Alpha · done · Vas
+- Alpha · Done · Vas
 
 ## Log
 

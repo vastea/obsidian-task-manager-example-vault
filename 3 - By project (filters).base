@@ -1,7 +1,7 @@
 filters:
   and:
     - type == "task"
-    - status != "archived"
+    - status != "Archived"
 properties:
   note.status:
     displayName: Status
@@ -29,18 +29,15 @@ views:
         direction: ASC
     usePredefinedColumns: true
     predefinedValues:
-      - backlog|#9aa0a6
-      - todo|#6b7280
-      - doing|#4c8bf5
-      - review|#e0a458
-      - done|#3fb950
+      - Backlog|#D3D1C7
+      - Todo|#B5D4F4
+      - In Progress|#FAC775
+      - Blocked|#F7C1C1
+      - Done|#C0DD97
+      - Cancelled|#F5C4B3
     doneStatuses:
-      - done
-    archiveValue: archived
-    tmKanbanState:
-      collapsed:
-        doing: false
-        __tm_null__: true
+      - Done
+    archiveValue: Archived
   - type: tm-kanban
     name: Beta
     filters:
@@ -55,14 +52,15 @@ views:
       - description
     usePredefinedColumns: true
     predefinedValues:
-      - backlog|#9aa0a6
-      - todo|#6b7280
-      - doing|#4c8bf5
-      - review|#e0a458
-      - done|#3fb950
+      - Backlog|#D3D1C7
+      - Todo|#B5D4F4
+      - In Progress|#FAC775
+      - Blocked|#F7C1C1
+      - Done|#C0DD97
+      - Cancelled|#F5C4B3
     doneStatuses:
-      - done
-    archiveValue: archived
+      - Done
+    archiveValue: Archived
   - type: tm-kanban
     name: Gamma
     filters:
@@ -77,14 +75,15 @@ views:
       - description
     usePredefinedColumns: true
     predefinedValues:
-      - backlog|#9aa0a6
-      - todo|#6b7280
-      - doing|#4c8bf5
-      - review|#e0a458
-      - done|#3fb950
+      - Backlog|#D3D1C7
+      - Todo|#B5D4F4
+      - In Progress|#FAC775
+      - Blocked|#F7C1C1
+      - Done|#C0DD97
+      - Cancelled|#F5C4B3
     doneStatuses:
-      - done
-    archiveValue: archived
+      - Done
+    archiveValue: Archived
   - type: tm-kanban
     name: Personal
     filters:
@@ -98,11 +97,12 @@ views:
       - description
     usePredefinedColumns: true
     predefinedValues:
-      - backlog|#9aa0a6
-      - todo|#6b7280
-      - doing|#4c8bf5
-      - review|#e0a458
-      - done|#3fb950
+      - Backlog|#D3D1C7
+      - Todo|#B5D4F4
+      - In Progress|#FAC775
+      - Blocked|#F7C1C1
+      - Done|#C0DD97
+      - Cancelled|#F5C4B3
     doneStatuses:
-      - done
-    archiveValue: archived
+      - Done
+    archiveValue: Archived

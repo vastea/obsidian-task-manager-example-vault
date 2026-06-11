@@ -1,7 +1,7 @@
 ---
 type: task
 project: Gamma
-status: review
+status: Done
 priority: medium
 assignee: Mia
 start: 2026-06-10
@@ -18,7 +18,7 @@ Getting-started guide.
 
 ## Activity
 
-- Gamma · review · Mia
+- Gamma · Done · Mia
 
 ## Log
 

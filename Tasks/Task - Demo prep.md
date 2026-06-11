@@ -1,7 +1,7 @@
 ---
 type: task
 project: Alpha
-status: review
+status: Done
 priority: high
 assignee: Mia
 start: 2026-06-11
@@ -16,7 +16,7 @@ Stakeholder demo.
 
 ## Activity
 
-- Alpha · review · Mia
+- Alpha · Done · Mia
 
 ## Log
 

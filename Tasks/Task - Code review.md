@@ -1,7 +1,7 @@
 ---
 type: task
 project: Beta
-status: review
+status: Done
 priority: medium
 assignee: Vas
 end: 2026-06-12
@@ -13,7 +13,7 @@ Review the parser PR.
 
 ## Activity
 
-- Beta · review · Vas
+- Beta · Done · Vas
 
 ## Log
 

@@ -1,7 +1,7 @@
 ---
 type: task
 project: Beta
-status: archived
+status: Cancelled
 priority: low
 description: Abandoned proof of concept.
 ---
@@ -11,7 +11,7 @@ Abandoned proof of concept.
 
 ## Activity
 
-- Beta · archived · unassigned
+- Beta · Cancelled · unassigned
 
 ## Log
 

@@ -1,7 +1,7 @@
 ---
 type: task
 project: Personal
-status: todo
+status: Todo
 priority: low
 start: 2026-06-08
 end: 2026-06-30
@@ -13,7 +13,7 @@ description: 3x per week.
 
 ## Activity
 
-- Personal · todo · unassigned
+- Personal · Todo · unassigned
 
 ## Log
 

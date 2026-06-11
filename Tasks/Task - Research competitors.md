@@ -1,7 +1,7 @@
 ---
 type: task
 project: Beta
-status: todo
+status: Blocked
 priority: medium
 assignee: Mia
 description: Survey similar apps.
@@ -12,7 +12,7 @@ Survey similar apps.
 
 ## Activity
 
-- Beta · todo · Mia
+- Beta · Blocked · Mia
 
 ## Log
 

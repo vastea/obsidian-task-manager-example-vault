@@ -1,7 +1,7 @@
 ---
 type: task
 project: Alpha
-status: todo
+status: Todo
 priority: medium
 assignee: Lee
 start: 2026-06-10
@@ -16,7 +16,7 @@ Main metrics dashboard.
 
 ## Activity
 
-- Alpha · todo · Lee
+- Alpha · Todo · Lee
 
 ## Log
 

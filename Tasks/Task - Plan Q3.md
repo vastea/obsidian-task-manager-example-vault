@@ -1,7 +1,7 @@
 ---
 type: task
 project: Gamma
-status: todo
+status: Todo
 priority: high
 assignee: Vas
 start: 2026-06-16
@@ -16,7 +16,7 @@ Roadmap for next quarter.
 
 ## Activity
 
-- Gamma · todo · Vas
+- Gamma · Todo · Vas
 
 ## Log
 

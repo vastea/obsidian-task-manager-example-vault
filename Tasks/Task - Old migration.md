@@ -1,7 +1,7 @@
 ---
 type: task
 project: Alpha
-status: archived
+status: Cancelled
 priority: low
 start: 2025-11-01
 end: 2025-11-20
@@ -13,7 +13,7 @@ Legacy data migration (last year).
 
 ## Activity
 
-- Alpha · archived · unassigned
+- Alpha · Cancelled · unassigned
 
 ## Log
 

@@ -1,7 +1,7 @@
 ---
 type: task
 project: Alpha
-status: doing
+status: In Progress
 priority: high
 assignee: Vas
 start: 2026-06-04
@@ -16,7 +16,7 @@ Define REST endpoints and payload schemas.
 
 ## Activity
 
-- Alpha · doing · Vas
+- Alpha · In Progress · Vas
 
 ## Log
 

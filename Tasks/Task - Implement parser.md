@@ -1,7 +1,7 @@
 ---
 type: task
 project: Alpha
-status: doing
+status: In Progress
 priority: medium
 assignee: Mia
 start: 2026-06-08
@@ -16,7 +16,7 @@ Section parser for the weekly log.
 
 ## Activity
 
-- Alpha · doing · Mia
+- Alpha · In Progress · Mia
 
 ## Log
 

@@ -1,7 +1,7 @@
 ---
 type: task
 project: Beta
-status: doing
+status: In Progress
 priority: medium
 assignee: Lee
 start: 2026-06-09
@@ -16,7 +16,7 @@ Implement push.
 
 ## Activity
 
-- Beta · doing · Lee
+- Beta · In Progress · Lee
 
 ## Log
 

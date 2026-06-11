@@ -11,9 +11,10 @@ All grouping and filtering is done by **Bases**; the plugin only renders.
 ## Data
 
 - `Tasks/` — 22 task notes (`type: task`) across **four projects** — `Alpha`,
-  `Beta`, `Gamma`, `Personal` — with `status` (`backlog / todo / doing / review /
-  done / archived`), `priority`, `assignee`, `start` / `end`, `description`, plus
-  some `tags` and relation fields (`parent` / `blocks` / `relates`).
+  `Beta`, `Gamma`, `Personal` — with `status` (`Backlog / Todo / In Progress /
+  Blocked / Done / Cancelled`), `priority`, `assignee`, `start` / `end`,
+  `description`, plus some `tags` and relation fields (`parent` / `blocks` /
+  `relates`).
 - `Journal/` — daily notes (2026‑06‑08 … 2026‑06‑12) each with a `## Log` section
   of `HH:MM-HH:MM (Category) [[Task]] note` time blocks (overlaps and category
   colours included).
@@ -30,11 +31,11 @@ exist; cards show `status / project / assignee / priority / description`.
 
 ### 2 — Pipeline with predefined colours — `2 - Pipeline (predefined colours).base`
 `usePredefinedColumns: true` — fixed, ordered, **custom‑coloured** columns via
-`value|color`: `backlog|#9aa0a6, todo|#6b7280, doing|#4c8bf5, review|#e0a458,
-done|#3fb950`.
-- `doneStatuses: [done]` → the done column shows the **Archive‑all** button.
-- `archiveValue: archived` → **right‑click a card → Archive** (or Archive‑all)
-  sets `status: archived`; the filter then drops it. Right‑click also offers
+`value|color`: `Backlog|#D3D1C7, Todo|#B5D4F4, In Progress|#FAC775,
+Blocked|#F7C1C1, Done|#C0DD97, Cancelled|#F5C4B3`.
+- `doneStatuses: [Done]` → the Done column shows the **Archive‑all** button.
+- `archiveValue: Archived` → **right‑click a card → Archive** (or Archive‑all)
+  sets `status: Archived`; the filter then drops it. Right‑click also offers
   **Move to <column>**.
 
 ### 3 — By project, via filters — `3 - By project (filters).base`  ⭐ multi‑project

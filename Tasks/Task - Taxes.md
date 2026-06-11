@@ -1,7 +1,7 @@
 ---
 type: task
 project: Personal
-status: todo
+status: Todo
 priority: high
 end: 2026-06-15
 description: File before the deadline.
@@ -12,7 +12,7 @@ File before the deadline.
 
 ## Activity
 
-- Personal · todo · unassigned
+- Personal · Todo · unassigned
 
 ## Log
 

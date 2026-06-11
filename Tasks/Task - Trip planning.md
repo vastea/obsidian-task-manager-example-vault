@@ -1,7 +1,7 @@
 ---
 type: task
 project: Personal
-status: done
+status: Done
 priority: low
 start: 2026-05-20
 end: 2026-05-25
@@ -13,7 +13,7 @@ Summer trip booked.
 
 ## Activity
 
-- Personal · done · unassigned
+- Personal · Done · unassigned
 
 ## Log
 
