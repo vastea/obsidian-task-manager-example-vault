@@ -29,3 +29,5 @@ views:
       - property: priority
         direction: ASC
     usePredefinedColumns: false
+    recordChangelog: true
+    changelogSection: Changelog

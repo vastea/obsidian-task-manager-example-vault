@@ -24,6 +24,9 @@ All grouping and filtering is done by **Bases**; the plugin only renders.
 Native Bases **group‑by** (no predefined columns). Columns are whatever statuses
 exist; cards show `status / project / assignee / priority / description`.
 - **Filter** `type == "task"` and `status != "archived"`; **sort** by `priority`.
+- **Record changelog** is on here (`recordChangelog: true`, `changelogSection: Changelog`):
+  drag a card to a new status and a `- yyyy-MM-dd old->new` line is appended under
+  a `## Changelog` section in that task's note (the section is created on first move).
 
 ### 2 — Pipeline with predefined colours — `2 - Pipeline (predefined colours).base`
 `usePredefinedColumns: true` — fixed, ordered, **custom‑coloured** columns via
